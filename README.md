@@ -35,7 +35,7 @@ characteristics:
     Code has and associated operations
     
 ```python
-from src.Cselenium.CSelenium import ChromeSelenium
+from Cselenium.CSelenium import ChromeSelenium
 
 def test1():
     cs = ChromeSelenium()
